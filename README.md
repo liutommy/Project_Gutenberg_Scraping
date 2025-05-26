@@ -13,9 +13,7 @@ Python (3.13.3)
 - pandas (2.2.3)
 
 ## 執行
-
 `python project_gutenberg_scraping.py`
-會創建資料夾project_gutenberg並儲存中文書籍在其中
 
 ## 成果
 
