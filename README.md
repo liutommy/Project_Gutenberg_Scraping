@@ -19,7 +19,7 @@ Python (3.13.3)
 
 ## 成果
 
-![img](https://drive.google.com/file/d/1JsLC2iOMZkzEuJub6QKH4YtXXFcwKo-w/view?usp=sharing)
-...
+![img](https://drive.google.com/uc?export=view&id=1JsLC2iOMZkzEuJub6QKH4YtXXFcwKo-w)
+==========
 [古騰堡 中文書爬蟲 2025 05 26 13 14 21](https://youtu.be/JPpjXZYv_0g)
-...
+==========
